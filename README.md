@@ -332,3 +332,7 @@ If you find this model useful for your research, please cite our work:
     year={2025}
 }
 ```
+
+---
+
+> **Created by Antono**
